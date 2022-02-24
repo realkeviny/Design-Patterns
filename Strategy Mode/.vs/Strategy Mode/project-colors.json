@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fec9695-3707-42f0-a61f-253d556aa74c": {
+      "ProjectGuid": "4fec9695-3707-42f0-a61f-253d556aa74c",
+      "DisplayName": "Strategy Mode",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

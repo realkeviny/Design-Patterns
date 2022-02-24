@@ -1,0 +1,2 @@
+F:\C\C++\Design Pattern\Observer Mode\x64\Debug\Observer Mode.exe
+F:\Design Pattern\Observer Mode\x64\Debug\Observer Mode.exe
